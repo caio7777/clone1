@@ -1,2 +1,3 @@
 agora vai dar certo pois eu descobri o que estava de errado...o problema e que eu tava clonando um repositorio dentro de um repositorio, isto nao faz sentido pois um repositori  ser subpasta de uma pasta ja versiona,sem logica kkkkk
 ate quem fim entendi o conceito!
+agora sim ta tudo entendido!
